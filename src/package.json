@@ -1,0 +1,23 @@
+{
+  "name": "dissonance",
+  "version": "0.0.0",
+  "description": "A mocking framework for the discord api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuele/dissonance.git"
+  },
+  "author": "fuele",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fuele/dissonance/issues"
+  },
+  "homepage": "https://github.com/fuele/dissonance#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ws": "^7.1.2"
+  }
+}
